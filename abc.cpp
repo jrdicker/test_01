@@ -9,5 +9,8 @@ int main (int argc, char** argv) {
   int d = 0xff;
   int ab = 0xf;
   
+  int ab = 0xfe;
+
+  int cc = 0xbb;
   return 0;
 }
