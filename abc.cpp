@@ -13,5 +13,7 @@ int main (int argc, char** argv) {
 
   int cc = 0xbb;
   int dd = 0xaa;
+  int ab = 0xf;
+  
   return 0;
 }
