@@ -10,5 +10,6 @@ int main (int argc, char** argv) {
   int ab = 0xfe;
 
   int cc = 0xbb;
+  int dd = 0xaa;
   return 0;
 }
