@@ -7,7 +7,7 @@ int main (int argc, char** argv) {
   int c = 0x1c;
   
   int d = 0xff;
-  int ab = 0xfe;
+  int ab = 0xf;
   
   return 0;
 }
