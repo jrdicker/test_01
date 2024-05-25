@@ -18,6 +18,7 @@ int main (int argc, char** argv) {
   int cc = 0xbb;
   int dd = 0xaa;
 
+  // Add one comment
 
   return 0;
 }
