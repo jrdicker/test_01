@@ -12,6 +12,7 @@ int main (int argc, char** argv) {
   int c = 0x1c;
   
   int d = 0xff;
+  int e = 0xfff;
   int ab = 0xfe;
 
   int cc = 0xbb;
